@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mostafa Toumi (EmSec)</h1>
 <h3 align="center">A Network Technician and Pentester from morocco</h3>
-<img align="right" alt="Coding" with="300" src="https://raw.githubusercontent.com/Mostafatoumi/mostafatoumi.io_img/main/emSec.png">
+<p align="center">
+  <img align="right" alt="Network Security" width="300" src="https://raw.githubusercontent.com/Mostafatoumi/mostafatoumi.io_img/main/emSec.png">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafatoumi&label=Profile%20views&color=0e75b6&style=flat" alt="mostafatoumi" /> </p>
 
