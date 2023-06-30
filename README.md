@@ -72,3 +72,10 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafatoumi&" alt="mostafatoumi" />
 </p>
+
+
+| My HTB account | My THM account |
+| --- | --- |
+| ![HTB Badge](https://www.hackthebox.eu/badge/image/962022) | ![THM Badge](https://tryhackme-badges.s3.amazonaws.com/Hightech.png) |
+
+
