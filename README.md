@@ -1,4 +1,4 @@
-![Masthead](https://raw.githubusercontent.com/Mostafatoumi/mostafatoumi.io_img/main/emSec_cover.jpg)
+<!-- ![Masthead](https://raw.githubusercontent.com/Mostafatoumi/mostafatoumi.io_img/main/emSec_cover.jpg) -->
 
 <h1 align="center">Hi 👋, I'm Mostafa Toumi (EmSec) 👾</h1>
 
