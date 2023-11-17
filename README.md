@@ -5,7 +5,7 @@
 <h3 align="center">A Network Technician and Pentester from Morocco 🇲🇦</h3>
 
 <p align="center">
-  <img align="right" alt="Network Security" width="300" src="https://raw.githubusercontent.com/Mostafatoumi/mostafatoumi.io_img/main/emSec.png">
+  <img align="right" alt="Network Security" width="300" src="https://raw.githubusercontent.com/Mostafatoumi/mostafatoumi.github.io/main/assets/img/favicons/HackTheBox/emSec_cover.jpg">
 </p>
 
 - 🌱 I’m currently learning **C++, javascript**
